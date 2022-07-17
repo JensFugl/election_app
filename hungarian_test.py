@@ -6,11 +6,9 @@ Created on Sun Jun 12 16:31:58 2022
 """
 
 import pandas as pd
-import numpy as np
-import seaborn as sns
+
 import scipy.stats as stats
 import streamlit as st
-from datetime import datetime
 
 
 
